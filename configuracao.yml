@@ -1,0 +1,12 @@
+codex:
+    server: "https://codex-backend-web.ia.pje.jus.br"
+    usuario: "tjes_integracao"
+    senha: "insiria_a_senha"
+rudis:
+    server: "https://rudis-api-hml.wisia.com.br"
+    usuario: "usuario"
+    senha: "senha"
+magma:
+    server: "https://magma-api-hml.wisia.com.br/"
+    usuario: "usuario"
+    senha: "senha"
